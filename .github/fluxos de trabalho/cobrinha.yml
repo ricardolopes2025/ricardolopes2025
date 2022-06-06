@@ -15,7 +15,7 @@ empregos :
         id : cobra-gif
         com :
           github_user_name : ricardolopes2025
-          svg_out_path : img/snake.svg
+          svg_out_path :  https://github.com/ricardolopes2025/img/blob/f0ea4803e34af49c707bcb2032f3bb5b5b853ded/snake.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
         com :
