@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>  
   <img align="center" alt="Ricardo-HTML" width="50" height="50"  src="https://github.com/ricardolopes2025/img/blob/aa62e384b1a46c83a6fb86416f66d0aa384d6273/html.svg" />
   <img align="center" alt="Ricardo-CSS" width="50" height="50"  src="https://github.com/ricardolopes2025/img/blob/aa62e384b1a46c83a6fb86416f66d0aa384d6273/css.svg" />
-  <img align="center" alt="Ricardo-PSD" width="50" height="50" src=" https://github.com/ricardolopes2025/img/blob/aa62e384b1a46c83a6fb86416f66d0aa384d6273/psd.svg" />
+  <img align="center" alt="Ricardo-PSD" width="50" height="50" src="https://github.com/ricardolopes2025/img/blob/aa62e384b1a46c83a6fb86416f66d0aa384d6273/psd.svg"/>
   <img align="center" alt="Ricardo-CDR" width="50" height="50" src="https://github.com/ricardolopes2025/img/blob/aa62e384b1a46c83a6fb86416f66d0aa384d6273/cdr.svg" />
  
           
