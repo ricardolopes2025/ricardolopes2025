@@ -1,5 +1,5 @@
 ### Olá👋
-<div ajustify-content="center"> 
+<div aling="center">
  <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=ricardolopes2025&show_icons=true&theme=algolia"/>  
  <img  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolopes2025&langs_count=&theme=algolia"/>
 </div>
