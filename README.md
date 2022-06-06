@@ -11,5 +11,11 @@
   <img  alt="Ricardo-PSD" width="50" height="50" src="https://github.com/ricardolopes2025/img/blob/aa62e384b1a46c83a6fb86416f66d0aa384d6273/psd.svg"/>
   <img  alt="Ricardo-CDR" width="50" height="50" src="https://github.com/ricardolopes2025/img/blob/aa62e384b1a46c83a6fb86416f66d0aa384d6273/cdr.svg" />
 </div>
+
+<div> 
  
+ 
+  ![Snake animation](https://github.com/rafaballerini/ricardolopes2025/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
