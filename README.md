@@ -14,7 +14,7 @@
 
 <div>  
  
- ![Snake animation](img/blob/f0ea4803e34af49c707bcb2032f3bb5b5b853ded/snake.svg)
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
  
  
