@@ -1,5 +1,9 @@
 ### Olá👋
-<div .px-5 style="display: flex" padding-left="0" padding-right="0">
+<body style=".px-5 {
+    padding-right:0px !important;
+    padding-left:0px !important;
+}#></body>
+<div  style="display: flex" padding-left="0" padding-right="0">
  
   <a href="https://github.com/ricardolopes2025">
   <img width="412px" height="205em" src="https://github-readme-stats.vercel.app/api?username=ricardolopes2025&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
