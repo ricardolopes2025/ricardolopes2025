@@ -1,8 +1,8 @@
 ### Olá👋
 <div style="display: flex">
   <a href="https://github.com/ricardolopes2025">
-  <img width="414px" height="205em" src="https://github-readme-stats.vercel.app/api?username=ricardolopes2025&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="414px" height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolopes2025&layout=compact&langs_count=7&theme=algolia"/>
+  <img width="413px" height="205em" src="https://github-readme-stats.vercel.app/api?username=ricardolopes2025&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="413px" height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolopes2025&layout=compact&langs_count=7&theme=algolia"/>
 </div> 
  <br> 
 <div>
