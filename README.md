@@ -15,6 +15,5 @@
 
 <div>  
 
-![Snake animation]([./dist/github-contribution-grid-snake.svg](https://github.com/ricardolopes2025/ricardolopes2025/blob/main/dist/github-contribution-grid-snake.svg)) 
-
+![Snake animation](https://github.com/ricardolopes2025/ricardolopes2025/blob/main/dist/github-contribution-grid-snake.svg)
 </div>
