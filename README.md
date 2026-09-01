@@ -18,10 +18,3 @@
 ![Snake animation](./dist/github-contribution-grid-snake.svg) 
 
 </div>
-
-<br/>
-
-<!-- Snake (arquivo já no dist/) -->
-<div>
-  ![Snake animation](./dist/github-contribution-grid-snake.svg)
-</div>
