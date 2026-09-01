@@ -7,10 +7,10 @@
 </div> 
  <br> 
 <div>
-  <img  alt="Ricardo-HTML" width="50" height="50"  src="https://github.com/ricardolopes2025/img/blob/201446d87f9e0a6a69c3c6363df269aee0ede88b/html.svg" />
-  <img  alt="Ricardo-CSS" width="50" height="50"  src="https://github.com/ricardolopes2025/img/blob/201446d87f9e0a6a69c3c6363df269aee0ede88b/css.svg" />
-  <img  alt="Ricardo-PSD" width="50" height="50" src="https://github.com/ricardolopes2025/img/blob/aa62e384b1a46c83a6fb86416f66d0aa384d6273/psd.svg"/>
-  <img  alt="Ricardo-CDR" width="50" height="50" src="https://github.com/ricardolopes2025/img/blob/aa62e384b1a46c83a6fb86416f66d0aa384d6273/cdr.svg" />
+  <img  alt="Ricardo-HTML" width="50" height="50"  src="https://raw.githubusercontent.com/ricardolopes2025/img/main/html.svg" />
+  <img  alt="Ricardo-CSS" width="50" height="50"  src="https://raw.githubusercontent.com/ricardolopes2025/img/main/css.svg" />
+  <img  alt="Ricardo-PSD" width="50" height="50" src="https://raw.githubusercontent.com/ricardolopes2025/img/main/psd.svg"/>
+  <img  alt="Ricardo-CDR" width="50" height="50" src="https://raw.githubusercontent.com/ricardolopes2025/img/main/cdr.svg" />
 </div>
 
 <div>  
