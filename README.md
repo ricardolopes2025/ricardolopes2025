@@ -3,7 +3,7 @@
 <div  style="display: flex" padding-left="0" padding-right="0"> 
   <a href="https://github.com/ricardolopes2025"> 
   <img width="412px" height="210em" src="https://github-stats-extended.vercel.app/api?username=ricardolopes2025&show_icons=true&theme=dracula"/>
-  <img width="412px" height="210em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true"/> 
+  <img width="412px" height="210em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true_icons=true&theme=dracula"/> 
 </div> 
  <br> 
 <div>
