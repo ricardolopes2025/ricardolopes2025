@@ -1,0 +1,12 @@
+{
+  "name": "generate-langs",
+  "version": "1.0.0",
+  "description": "Generate top-langs SVG for README",
+  "main": "scripts/generate-langs.js",
+  "scripts": {
+    "generate-langs": "node scripts/generate-langs.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^19.0.0"
+  }
+}
