@@ -4,7 +4,7 @@
   <a href="https://github.com/ricardolopes2025">
     (
   <img width="412px" height="210em" src="https://github-stats-extended.vercel.app/api?username=ricardolopes2025&show"/>
-  <img width="412px" height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolopes2025&layout=compact&langs_count=7&theme=algolia"/>
+  <img width="412px" height="210em" src="https://github.com/stats-organization/github-stats-extended"/>
 </div> 
  <br> 
 <div>
