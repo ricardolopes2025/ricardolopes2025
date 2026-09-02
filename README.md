@@ -3,7 +3,7 @@
 <div  style="display: flex" padding-left="0" padding-right="0"> 
   <a href="https://github.com/ricardolopes2025">    
   <img width="412px" height="210em" src="https://github-stats-extended.vercel.app/api?username=ricardolopes2025&show"/>
-  <img width="412px" height="210em" src="https://github.com/stats-organization/github-stats-extended"/>
+  <img width="412px" height="210em" src="https://github-stats-extended.vercel.app/api?username=octocat&theme=radical"/>
 </div> 
  <br> 
 <div>
