@@ -1,6 +1,5 @@
 ### Olá👋
-<div class=" px-5" style=".px-5{padding-right: 0px !important; padding-left: 0px !important;}"></div>
-<div  style="display: flex" padding-left="0" padding-right="0"> 
+<div > 
   <a href="https://github.com/ricardolopes2025"> 
   <img width="412px" height="210em" src="https://github-stats-extended.vercel.app/api?username=ricardolopes2025&show_icons=true&theme=dracula"/>
   <img width="412px" height="210em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true_icons=true&theme=dracula"/> 
