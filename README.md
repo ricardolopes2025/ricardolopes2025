@@ -2,7 +2,7 @@
 <div > 
   <a href="https://github.com/ricardolopes2025"> 
   <img width="412px" height="210em" src="https://github-stats-extended.vercel.app/api?username=ricardolopes2025&show_icons=true&theme=dracula"/>
-  <img width="412px" height="210em" src="https://raw.githubusercontent.com/ricardolopes2025/ricardolopes2025/main/dist/top-langs.svg_icons=true&theme=dracula" alt="Most Used Languages" />
+  <img width="412px" height="210em" src="https://raw.githubusercontent.com/ricardolopes2025/ricardolopes2025/main/dist/top-langs.svg" alt="Most Used Languages" />
   
    
 </div> 
