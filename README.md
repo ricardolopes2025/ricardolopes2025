@@ -2,6 +2,12 @@
 <div > 
   <a href="https://github.com/ricardolopes2025"> 
   <img width="412px" height="210em" src="https://github-stats-extended.vercel.app/api?username=ricardolopes2025&show_icons=true&theme=dracula"/>
+  <img width="412px" height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolopes2025&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  
+
+
+    <a href="https://github.com/ricardolopes2025"> 
+  <img width="412px" height="210em" src="https://github-stats-extended.vercel.app/api?username=ricardolopes2025&show_icons=true&theme=dracula"/>
   <img width="412px" height="210em" src="https://github-readme-stats-one-beryl-98.vercel.app/api/top-langs/?username=ricardolopes2025&show_icons=true&theme=dracula" alt="Most Used Languages" />
    
 </div> 
