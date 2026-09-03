@@ -2,7 +2,7 @@
 <div > 
   <a href="https://github.com/ricardolopes2025"> 
   <img width="412px" height="210em" src="https://github-stats-extended.vercel.app/api?username=ricardolopes2025&show_icons=true&theme=dracula"/>
-  <img width="412px" height="210em" src="https://raw.githubusercontent.com/ricardolopes2025/ricardolopes2025/main/dist/top-langs.svg" alt="Most Used Languages" />
+  <img width="412px" height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolopes2025&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Most Used Languages" />
   
    
 </div> 
@@ -15,5 +15,3 @@
 </div>  
     
 ![Snake animation](https://github.com/ricardolopes2025/ricardolopes2025/blob/main/dist/github-contribution-grid-snake.svg)
-
-
