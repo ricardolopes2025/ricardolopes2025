@@ -2,39 +2,22 @@ name: Generate contribution-snake
 
 on:
   schedule:
-    - cron: '0 0 * * *' # executa diariamente (opcional)
-  workflow_dispatch: {}  # permite rodar manualmente
+    - cron: '0 0 * * *' # executa diariamente à meia-noite (UTC)
+  workflow_dispatch: {} # permite rodar manualmente pela aba Actions
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    env:
-      SVG_OUT_PATH: dist/github-contribution-grid-snake.svg
-      # Comando default — ajuste se sua ferramenta usa um flag diferente
-      SVG_GEN_COMMAND: npx github-contribution-grid-snake --svg-out-path $SVG_OUT_PATH
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Generate the snake game from GitHub contribution grid
+        uses: Platane/snk@v3
         with:
-          node-version: '18'
-
-      - name: Install dependencies (if package.json exists)
-        if: fileExists('package.json')
-        run: npm ci
-
-      - name: Ensure dist dir
-        run: mkdir -p dist
-
-      - name: Generate contribution snake SVG
-        # Ajuste esta linha para o comando real que você usa para gerar o svg
-        run: ${{ env.SVG_GEN_COMMAND }}
-
-      - name: Show generated file (for debug)
-        run: ls -la $(dirname ${{ env.SVG_OUT_PATH }}) || true
+          github_user_name: ricardolopes2025
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Commit generated SVG
         uses: EndBug/add-and-commit@v9
@@ -42,7 +25,4 @@ jobs:
           author_name: github-actions[bot]
           author_email: 41898282+github-actions[bot]@users.noreply.github.com
           message: "chore: update contribution snake"
-          add: 'dist/github-contribution-grid-snake.svg'
-        with:
-          message: "chore: update contribution snake"
-          add: 'dist/github-contribution-grid-snake.svg'
+          add: 'dist/github-contribution-grid-snake*.svg'
